@@ -1,0 +1,48 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/eating-disorders-polyphagia---primary.py
+inputModule3:
+  class: File
+  path: python/eating-disorders-hyperalimentation---primary.py
+inputModule4:
+  class: File
+  path: python/eating-disorders-anorexia---primary.py
+inputModule5:
+  class: File
+  path: python/eating-disorders-binge---primary.py
+inputModule6:
+  class: File
+  path: python/eating-disorders-unspecified---primary.py
+inputModule7:
+  class: File
+  path: python/atypical-eating-disorders---primary.py
+inputModule8:
+  class: File
+  path: python/eating-disorders-image---primary.py
+inputModule9:
+  class: File
+  path: python/clinic-eating-disorders---primary.py
+inputModule10:
+  class: File
+  path: python/other-eating-disorders---primary.py
+inputModule11:
+  class: File
+  path: python/nonorganic-eating-disorders---primary.py
+inputModule12:
+  class: File
+  path: python/eating-disorders-bulimia---primary.py
+inputModule13:
+  class: File
+  path: python/eating-disorders---primary.py
+inputModule14:
+  class: File
+  path: python/eating-disorders-nervosa---primary.py
+inputModule15:
+  class: File
+  path: python/eating---primary.py
+inputModule16:
+  class: File
+  path: python/output-cases.py
